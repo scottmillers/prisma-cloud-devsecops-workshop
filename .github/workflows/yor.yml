@@ -1,4 +1,4 @@
-name: IaC tag and trace
+name: IaC tag and trace with Update
 
 on:
   push:
